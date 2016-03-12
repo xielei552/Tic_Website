@@ -1,0 +1,116 @@
+﻿@{
+    ViewBag.Title = "TIC";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <div id="gpic" style="overflow:hidden; width:100%; height:380px;">
+
+                <table border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td id="gpic1" valign="top" align="center">
+                            <table width="2000" border="0" align='center' cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td height="320" bgcolor="#FFFACD"> 图片/链接</td>
+                                    <td valign='top' bgcolor="#FFFACD"> 图片/链接</td>
+                                    <td valign='top' bgcolor="#FFFACD"> 图片/链接</td>
+                                    <td valign='top' bgcolor="#FFFACD"> 图片/链接</td>
+                                    <td valign='top' bgcolor="#FFFACD"> 图片/链接</td>
+                                </tr>
+                                <tr>
+                                    <td height="24" align="center">文字信息</td>
+                                    <td align="center">文字信息</td>
+                                    <td align="center">文字信息</td>
+                                    <td align="center">文字信息</td>
+                                    <td align="center">文字信息</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td id="gpic2" valign="top"></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <script>
+    var speed = 30
+    gpic2.innerHTML = gpic1.innerHTML
+    function Marquee() {
+        if (gpic2.offsetWidth - gpic.scrollLeft <= 0)
+            gpic.scrollLeft -= gpic1.offsetWidth
+        else {
+            gpic.scrollLeft++
+        }
+    }
+    var MyMar = setInterval(Marquee, speed)
+    gpic.onmouseover = function () { clearInterval(MyMar) }
+    gpic.onmouseout = function () { MyMar = setInterval(Marquee, speed) }
+        </script>
+    </section>
+}
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+
+<div class="I_container">
+    <div class="I_left">
+        <div class="container">
+            <div id="hero">
+                <div class="current"><img src="~/Images/index_slide/index1.jpg" height="480" weith="640"></div>
+                <div><img src="~/Images/index_slide/index2.jpg" height="480" weith="640"></div>
+            </div>
+        </div>
+        </div>
+    <div class="I_right">
+        <center><h2>How our project came to be?</h2></center>
+        <p>
+            -The travelling experience of an Austrian girl in China
+        </p>
+        <p class="Artical1">
+            Hi everybody! My name is Anna. I am from Austria and currently studying in the UK. 
+            As I love Chinese culture, I decided to go to China in summer 2014.  
+            Because of my experience there, 
+            I am now working with my friends for a start-up project providing tourism services 
+            to foreigners (especially students) in China.
+        </p>
+        <a href="@Url.Action("Artical1", "Index")">Read more</a>
+        </div>
+
+    </div>
+<div class="I_botton_left">
+    <center><h2>What make us unique?</h2></center>
+    <p class="Artical1">
+        Our core team is formed by anenthusiasticand diverse group of people. 
+        We understand the preferencesof foreign tourists in China and appreciate 
+        the fact that students want to have certain independence in their travels.
+        </p>
+
+    <a href="@Url.Action("Artical2", "Index")">Read more</a>
+    </div>
+<div class="I_botton_right">
+    </div>
+
+
+
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        // create the image rotator
+        setInterval("rotateImages()", 3000);
+    });
+
+    function rotateImages() {
+        var oCurPhoto = $('#hero div.current');
+        var oNxtPhoto = oCurPhoto.next();
+        if (oNxtPhoto.length == 0)
+            oNxtPhoto = $('#hero div:first');
+
+        oCurPhoto.removeClass('current').addClass('previous');
+        oNxtPhoto.css({ opacity: 0.0 }).addClass('current')
+                .animate({ opacity: 1.0 }, 1000,
+                            function () {
+                                oCurPhoto.removeClass('previous');
+                            });
+    }
+</script>
+

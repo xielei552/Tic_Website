@@ -1,0 +1,93 @@
+﻿@model Tic_Website.Models.IndexModels
+@{
+    ViewBag.Title = "Pick_up";
+}
+<h2>Airport pick up service</h2>
+<h3>Please sent a reuqest to us if you need airport pick up</h3>
+
+@using (Html.BeginForm("PorcessRequest","Home"))
+    {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Employee</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Email)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Flight)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Flight)
+            @Html.ValidationMessageFor(model => model.Flight)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Date)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Date)
+            @Html.ValidationMessageFor(model => model.Date)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Request)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Request)
+            @Html.ValidationMessageFor(model => model.Request)
+        </div>
+        <p>
+            <input type="submit" value="Submit" />
+        </p>
+    </fieldset>
+
+    }
+
+        <!--<form method="post" action="@Url.Action("PorcessRequest", "Home")">
+            <div>
+                Your name:
+                <input type="text" name="customerName" />
+            </div>
+
+            <div>
+                Your email address:
+                <input type="text" name="customerEmail" />
+            </div>
+
+            <div>
+                Your flight number:
+                <input type="text" name="customerFlight" />
+            </div>
+
+            <div>
+                Arrive Date:
+                <input type="text" name="customerDate" />
+            </div>
+
+            <div>
+                Additional information: <br />
+                <textarea name="customerRequest" cols="45" rows="4"></textarea>
+            </div>
+
+            <div>
+                <input type="submit" value="Submit" />
+            </div>
+        </form>-->
+
+        @section Scripts {
+            @Scripts.Render("~/bundles/jqueryval")
+        }

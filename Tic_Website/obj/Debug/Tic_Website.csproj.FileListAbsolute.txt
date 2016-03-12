@@ -1,0 +1,370 @@
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Tic_Website.dll.config
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Tic_Website.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Tic_Website.pdb
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Antlr3.Runtime.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.Core.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\EntityFramework.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Data.Edm.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Data.OData.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Newtonsoft.Json.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.Formatting.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.WebRequest.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Spatial.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Helpers.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.OData.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.WebHost.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Mvc.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Optimization.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Razor.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\WebGrease.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\WebMatrix.Data.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\WebMatrix.WebData.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\EntityFramework.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Newtonsoft.Json.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.Formatting.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.WebRequest.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Helpers.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.WebHost.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Mvc.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Razor.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\WebMatrix.Data.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\WebMatrix.WebData.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.Core.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.OData.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Data.Edm.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Data.OData.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Spatial.xml
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\de\System.Spatial.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\es\System.Spatial.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\fr\System.Spatial.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\it\System.Spatial.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ja\System.Spatial.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ko\System.Spatial.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ru\System.Spatial.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\obj\Debug\Tic_Website.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\obj\Debug\Tic_Website.dll
+C:\Users\Ray\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\obj\Debug\Tic_Website.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Tic_Website.dll.config
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Tic_Website.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Tic_Website.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Antlr3.Runtime.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.Core.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\EntityFramework.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Data.Edm.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Data.OData.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Newtonsoft.Json.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Net.Http.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Net.Http.Formatting.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Net.Http.WebRequest.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Spatial.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Helpers.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Http.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Http.OData.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Http.WebHost.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Mvc.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Optimization.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Razor.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.WebPages.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.WebPages.Razor.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\WebGrease.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\WebMatrix.Data.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\WebMatrix.WebData.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\EntityFramework.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Newtonsoft.Json.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Net.Http.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Net.Http.Formatting.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Net.Http.WebRequest.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Helpers.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Http.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Http.WebHost.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Mvc.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Razor.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.WebPages.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.WebPages.Razor.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\WebMatrix.Data.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\WebMatrix.WebData.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.Core.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Web.Http.OData.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Data.Edm.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Data.OData.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Spatial.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\de\System.Spatial.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\es\System.Spatial.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\fr\System.Spatial.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\it\System.Spatial.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\ja\System.Spatial.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\ko\System.Spatial.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\ru\System.Spatial.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\obj\Debug\Tic_Website.csprojResolveAssemblyReference.cache
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\obj\Debug\Tic_Website.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\obj\Debug\Tic_Website.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\EntityFramework.SqlServer.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.IO.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Net.Http.Extensions.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Net.Http.Primitives.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Runtime.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Threading.Tasks.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Mono.Math.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\EntityFramework.SqlServer.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.IO.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Net.Http.Extensions.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Net.Http.Primitives.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Runtime.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\System.Threading.Tasks.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Mono.Math.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\obj\Debug\Tic_Website.csproj.App.config
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\BouncyCastle.Crypto.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Auth.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Auth.Mvc4.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Core.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Drive.v2.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.PlatformServices.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\log4net.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Zlib.Portable.dll
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\BouncyCastle.Crypto.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Auth.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Auth.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Auth.Mvc4.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Auth.Mvc4.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Auth.PlatformServices.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Core.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Core.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Drive.v2.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.Drive.v2.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.PlatformServices.pdb
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Google.Apis.PlatformServices.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\log4net.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\xielei552\Desktop\Tic_Website\Tic_Website\bin\Zlib.Portable.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Tic_Website.dll.config
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Tic_Website.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Tic_Website.pdb
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Antlr3.Runtime.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\BouncyCastle.Crypto.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.Core.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\EntityFramework.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\EntityFramework.SqlServer.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Auth.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Auth.Mvc4.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Core.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Drive.v2.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.PlatformServices.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\log4net.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Data.Edm.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Data.OData.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Newtonsoft.Json.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.IO.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.Extensions.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.Formatting.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.Primitives.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.WebRequest.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Runtime.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Spatial.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Threading.Tasks.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Helpers.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.OData.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.WebHost.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Mvc.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Optimization.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Razor.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.Razor.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\WebGrease.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\WebMatrix.Data.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\WebMatrix.WebData.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Zlib.Portable.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Mono.Math.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\BouncyCastle.Crypto.pdb
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.Core.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\EntityFramework.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\EntityFramework.SqlServer.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.pdb
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Auth.pdb
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Auth.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Auth.Mvc4.pdb
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Auth.Mvc4.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Auth.PlatformServices.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Core.pdb
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Core.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Drive.v2.pdb
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.Drive.v2.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.PlatformServices.pdb
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Google.Apis.PlatformServices.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\log4net.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Newtonsoft.Json.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.IO.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.Extensions.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.Primitives.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.WebRequest.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Runtime.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Threading.Tasks.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Razor.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Net.Http.Formatting.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Helpers.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.WebHost.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Mvc.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.WebPages.Razor.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\WebMatrix.Data.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\WebMatrix.WebData.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Web.Http.OData.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Data.Edm.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Microsoft.Data.OData.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\System.Spatial.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Zlib.Portable.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\Mono.Math.xml
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\de\System.Spatial.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\es\System.Spatial.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\fr\System.Spatial.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\it\System.Spatial.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ja\System.Spatial.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ko\System.Spatial.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\ru\System.Spatial.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\obj\Debug\Tic_Website.csproj.App.config
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\obj\Debug\Tic_Website.csprojResolveAssemblyReference.cache
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\obj\Debug\Tic_Website.dll
+C:\Users\xielei552\Documents\Visual Studio 2013\Projects\Tic_Website\Tic_Website\obj\Debug\Tic_Website.pdb

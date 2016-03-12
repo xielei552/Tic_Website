@@ -1,0 +1,123 @@
+﻿@{
+    ViewBag.Title = "Siming_mount";
+}
+
+<h2>Our trips</h2>
+<div class="Trips_left">
+    <div class="Trips_menu">
+        <a href="@Url.Action("Kayak","Trips")" target="Trips_right">Ningbo Kayaking Tour</a>
+        <br><br>
+        <a href="@Url.Action("Pu_jiang","Trips")" target="Trips_right">Pujiang Camping Tour</a>
+        <br><br />
+        <a href="@Url.Action("Siming_mount","Trips")" target="Trips_right">Siming Mountain Tour</a>
+    </div>
+</div>
+
+<div class="Siming_right">
+    <div class="Trips_Artical">
+        <h2>Siming Mountain Tour</h2>
+        <h3>Exploring the mystery in the ancient valley</h3>
+        <br />
+        <img src="~/Images/ancient_valley/IMG_4995.JPG" width=" 550" height=" 400"/>
+        <p class="Artical1">
+            Date: Sep 19th
+        </p>
+        <p class="Artical1">
+            Location: Siming Mountain, Lijiaken Village
+        </p>
+        <p class="Artical1">
+            Number of tourists: 16 MAX
+        </p>
+        <p class="Artical1">
+            Price: 220 RMB/person (with lunch) or 180 RMB/person (no lunch)
+        </p>
+        <p class="Artical1">
+            Your payment include: Transport, Insurance, Tourist guide, Rafting equipment & Rafting ticket
+        </p>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="YGTJJMHRHKSQ8">
+            <table>
+                <tr><td><input type="hidden" name="on0" value="Trips">Trips</td></tr>
+                <tr>
+                    <td>
+                        <select name="os0">
+                            <option value="With lunch">With lunch $55.00 CAD</option>
+                            <option value="No lunch">No lunch $45.00 CAD</option>
+                        </select>
+                    </td>
+                </tr>
+            </table>
+            <input type="hidden" name="currency_code" value="CAD">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+
+        <p class="Artical1">
+            Sign-up Email: 
+        </p>
+        <a herf="mailto:TICthisischina@163.com">TICthisischina@163.com</a>
+        <p class="Artical1">
+            Schedule:
+        </p>
+        <img src="~/Images/ancient_valley/p1.png" width=" 500" height=" 350"/>
+        <br />
+        <h3>Trip Introduction:</h3>
+
+        <p class="Artical1">
+            In this one-day trip, we are going to see the natural view of Siming Mountain, visit an
+            ancient village called Li Jia Ken and experience the best rafting in eastern Zhejiang
+            province.
+        </p>
+        <p class="Artical1">
+            Li Jia Ken village has a long history of 365 years and its initial ancestors can be traced to the
+            Ming dynasty. The most unique aspect of this village is the preservation of old architecture
+            styles from the periods of the Qing Dynasty and the Republic of China. Going through the
+            village, you can see the stone houses with the traditional design of quadrangle dwellings and
+            the wharf wall. The house-type varies from residence to family temple, to shop, to school to
+            business hall, etc. You may close your eyes for a second and imagine life in an ancient village!
+            People living in this village may be shy and conservative. They may not be used to seeing
+            that many strangers from outside. So please be quiet and do not disturb them when walking
+            through the village!
+        </p>
+        <img src="~/Images/ancient_valley/IMG_5117.JPG" width=" 500" height=" 350" />
+        <p class="Artical1">
+            At noon, we are going to have our lunch at a local house. The host will prepare us a very
+            delicious meal. This is all authentic local food: fresh fish, river prawn, green vegetables, pork,
+            etc. Let us know which one is your favourite! After enjoying such a fantastic meal in the village, 
+            we are now moving on to RAFTING! Known as the best in eastern Zhejiang Province, 
+            Li Jia Ken’s rafting will bring you an exciting experience in swerving through the valley and floating on the water of the brook!
+             Be sure to wear the helmet and life jacket all the time! 
+        </p>
+        <p class="Artical1">
+            Scared? Haha! There will be staff every 5 meters, so don’t worry! All good things must come to an end, 
+            but happiness can turn into good memories. After we finish rafting, we will go back. You may be tired,
+             but now you can have a nap on the coach! We hope you had a good time with us on our tour and wish to see you again!
+        </p>
+        <img src="~/Images/ancient_valley/IMG_5146.JPG" width=" 500" height=" 350" />
+        <h3>Important instruction:</h3>
+        <p class="Artical1">
+            1. Insurance is compulsory for rafting.
+
+        </p>
+        <p class="Artical1">
+            2. Safety comes first! You need to follow the instructors when rafting. Any dangerous actions are not allowed.
+
+        </p>
+        <p class="Artical1">
+            3. You will be given the phone number of the tourist guide and our office in case you get lost or are in emergency.
+
+        </p>
+        <p class="Artical1">
+            4. Your tourist guide will collect the dietary requirements before the lunch so please make sure your information is received by the guide.
+        </p>
+        <p class="Artical1">
+            5. Li Jia Ken is a very quiet village so please do not make too much noise when walking
+            though the village.
+        </p>
+        <p class="Artical1">
+            6. You can speak to your tourist guide if you have any problems during the trip.
+        </p>
+
+    </div>
+</div>

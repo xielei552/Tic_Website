@@ -1,0 +1,72 @@
+﻿@{
+    ViewBag.Title = "PorcessRequest";
+    var customerName = Request["Name"];
+    var customerEmail = Request["Email"];
+    var customerFlight = Request["Flight"];
+    var customerDate = Request["Date"];
+    var customerRequest = Request["Request"];
+    var errorMessage = "";
+    var debuggingFlag = false;
+    try
+    {
+        // Initialize WebMail helper
+        WebMail.SmtpServer = "smtp.mail.me.com";
+        WebMail.SmtpPort = 587;
+        WebMail.UserName = "xielei552@icloud.com";
+        WebMail.Password = "X87887965x";
+        WebMail.EnableSsl = true;
+        WebMail.From = "xielei552@icloud.com";
+
+        // Send email
+        WebMail.Send(to: customerEmail,
+            subject: "Airport pick up request from - " + customerName,
+            body: customerName + ", need a Airport pick up service on "  + customerDate +
+            ". The flight number is " + customerFlight + ". with fowllowing additional information: "
+        + customerRequest
+        );
+    }
+    catch (Exception ex)
+    {
+        errorMessage = ex.Message;
+    }
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Request for Airport pick up</title>
+</head>
+<body>
+    <p>Thanks for you to choose Airport pick up service, <b>@customerName</b>.</p>
+    @if (errorMessage == "")
+    {
+        <p>
+            An email message has been sent to our customer service, and
+            please comfirm these following information you provided.
+        </p>
+        <p>Name:</p>
+        <p><b>@customerName</b></p>
+        <p>Email address:</p>
+        <p><b>@customerEmail</b></p>
+        <p>Flight number:</p>
+        <p><b>@customerFlight</b></p>
+        <p>Arrived Date:</p>
+        <p><b>@customerDate</b></p>
+        <p>Additional information:</p>
+        <p><b>@customerRequest</b></p>
+    }
+    else
+    {
+        <p><b>The email was <em>not</em> sent.</b></p>
+        <p>
+            Please check that the code in the ProcessRequest page has
+            correct settings for the SMTP server name, a user name,
+            a password, and a "from" address.
+        </p>
+        if (debuggingFlag)
+        {
+            <p>The following error was reported:</p>
+            <p><em>@errorMessage</em></p>
+        }
+    }
+</body>
+</html>
